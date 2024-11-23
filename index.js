@@ -14,8 +14,26 @@ const music = new Audio();
 
 const songs = [
     {
+        path: 'assets/alfa-i-romeo.mp3',
+        displayName: 'Alfa i Romeo',
+        cover: 'assets/zl2.png',
+        artist: 'Sentino', 
+    },
+    {
         path: 'assets/biznesmenel.mp3',
         displayName: 'Biznesmenel',
+        cover: 'assets/zl2.png',
+        artist: 'Sentino', 
+    },
+    {
+        path: 'assets/dzieci-wojny.mp3',
+        displayName: 'Dzieci wojny',
+        cover: 'assets/zl2.png',
+        artist: 'Sentino', 
+    },
+    {
+        path: 'assets/gomorra.mp3',
+        displayName: 'Gomorra',
         cover: 'assets/zl2.png',
         artist: 'Sentino', 
     },
@@ -26,32 +44,14 @@ const songs = [
         artist: 'Sentino', 
     },
     {
-        path: 'assets/zabij-sie.mp3',
-        displayName: 'Zabij się',
+        path: 'assets/nieodebrane.mp3',
+        displayName: 'Nieodebrane',
         cover: 'assets/zl2.png',
         artist: 'Sentino', 
     },
     {
-        path: 'assets/przy-bogu.mp3',
-        displayName: 'Przy Bogu',
-        cover: 'assets/zl2.png',
-        artist: 'Sentino', 
-    },
-    {
-        path: 'assets/ta-droga.mp3',
-        displayName: 'Ta droga',
-        cover: 'assets/zl2.png',
-        artist: 'Sentino', 
-    },
-    {
-        path: 'assets/swoj-sen.mp3',
-        displayName: 'Swój sen',
-        cover: 'assets/zl2.png',
-        artist: 'Sentino', 
-    },
-    {
-        path: 'assets/smierc-wrogoms.mp3',
-        displayName: 'Śmierć wrogom',
+        path: 'assets/panstwo-w-panstwie.mp3',
+        displayName: 'Państwo w państwie',
         cover: 'assets/zl2.png',
         artist: 'Sentino', 
     },
